@@ -1,0 +1,216 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M1024 608l-192-192v-288h-128v160l-192-192-512 512v32h128v320h320v-192h128v192h320v-320h128z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"home",
+					"house"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 1,
+				"prevSize": 16,
+				"ligatures": "home3, house3",
+				"name": "home3",
+				"id": 3,
+				"code": 59648
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M448 128l128 128h448v704h-1024v-832z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"folder",
+					"directory",
+					"category",
+					"browse"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 2,
+				"prevSize": 16,
+				"ligatures": "folder, directory",
+				"name": "folder",
+				"id": 48,
+				"code": 59649
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 47
+		},
+		{
+			"icon": {
+				"paths": [
+					"M320 192c0-106.039 85.961-192 192-192s192 85.961 192 192c0 106.039-85.961 192-192 192s-192-85.961-192-192zM768.078 448h-35.424l-199.104 404.244 74.45-372.244-96-96-96 96 74.45 372.244-199.102-404.244h-35.424c-127.924 0-127.924 85.986-127.924 192v320h768v-320c0-106.014 0-192-127.922-192z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"user-tie",
+					"user",
+					"user-employee",
+					"profile",
+					"avatar",
+					"person",
+					"member",
+					"job",
+					"official"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 3,
+				"prevSize": 16,
+				"ligatures": "user-tie, user5",
+				"name": "user-tie",
+				"id": 119,
+				"code": 59650
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 118
+		},
+		{
+			"icon": {
+				"paths": [
+					"M64 192h896v192h-896zM64 448h896v192h-896zM64 704h896v192h-896z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"menu",
+					"list",
+					"options",
+					"lines",
+					"hamburger"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 5,
+				"prevSize": 16,
+				"ligatures": "menu, list3",
+				"name": "menu",
+				"id": 190,
+				"code": 59651
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 189
+		},
+		{
+			"icon": {
+				"paths": [
+					"M512 32l-480 480h288v512h384v-512h288z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"arrow-up",
+					"up",
+					"upload",
+					"top"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 7,
+				"prevSize": 16,
+				"ligatures": "arrow-up, up",
+				"name": "arrow-up",
+				"id": 307,
+				"code": 59652
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 306
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736.014 448c-8.908 0-17.77-3.698-24.096-10.928l-199.918-228.478-199.918 228.478c-11.636 13.3-31.856 14.65-45.154 3.010-13.3-11.638-14.648-31.854-3.010-45.154l224-256c6.076-6.944 14.854-10.928 24.082-10.928s18.006 3.984 24.082 10.928l224 256c11.638 13.3 10.292 33.516-3.010 45.154-6.070 5.312-13.582 7.918-21.058 7.918z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"ctrl",
+					"control"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 6,
+				"prevSize": 16,
+				"ligatures": "ctrl, control",
+				"name": "ctrl",
+				"id": 337,
+				"code": 59653
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 336
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"embed": false,
+			"autoHost": true
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": false,
+			"useClassSelector": true,
+			"color": 0,
+			"bgColor": 16777215,
+			"classSelector": ".icon",
+			"height": 32,
+			"columns": 16,
+			"margin": 16,
+			"sprite": true
+		},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16,
+		"quickUsageToken": {
+			"UntitledProject": "ZWYwNDIxMGY3M2Y2MjIwZGZiYjAxMjZlMDA4ODQwNTYjMSMxNDU0NTM4Mjc5IyMj"
+		}
+	}
+}
